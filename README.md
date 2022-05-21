@@ -6,7 +6,7 @@ Day 17: More Exceptions patika.dev
 
 
 
-
+https://www.hackerrank.com/challenges/30-more-exceptions/problem
 
 
 ```
